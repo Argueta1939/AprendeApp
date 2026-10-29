@@ -9,4 +9,81 @@
     <string name="password_rule_number">Al menos un número</string>
     <string name="password_rule_special">Al menos un carácter especial (! @ # $ % ^ &amp; *)</string>
 
+    <!-- Autenticación -->
+    <string name="login_title">Iniciar sesión</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="label_nombre">Nombre completo</string>
+    <string name="label_email">Correo electrónico</string>
+    <string name="label_password">Contraseña</string>
+    <string name="label_confirm_password">Confirmar contraseña</string>
+    <string name="label_rol">Rol</string>
+    <string name="rol_estudiante">Estudiante</string>
+    <string name="rol_docente">Docente</string>
+    <string name="btn_login">Entrar</string>
+    <string name="btn_register">Registrarme</string>
+    <string name="link_ir_registro">¿No tienes cuenta? Regístrate</string>
+    <string name="link_ir_login">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="error_campos_vacios">Completa todos los campos</string>
+    <string name="error_email_invalido">Correo electrónico no válido</string>
+    <string name="error_password_invalida">La contraseña no cumple los requisitos</string>
+    <string name="error_password_no_coincide">Las contraseñas no coinciden</string>
+    <string name="error_credenciales">Correo o contraseña incorrectos</string>
+    <string name="error_email_existente">Ya existe una cuenta con ese correo</string>
+    <string name="error_red">Error de conexión. Intenta de nuevo</string>
+    <string name="bienvenido_usuario">Hola, %1$s</string>
+
+    <!-- Navegación -->
+    <string name="nav_inicio">Inicio</string>
+    <string name="nav_favoritos">Favoritos</string>
+    <string name="nav_admin">Administrar</string>
+    <string name="cd_logout">Cerrar sesión</string>
+    <string name="cd_refrescar">Actualizar</string>
+    <string name="cd_ordenar">Ordenar</string>
+    <string name="cd_limpiar">Limpiar búsqueda</string>
+    <string name="cd_mostrar_password">Mostrar u ocultar contraseña</string>
+
+    <!-- Lista de recursos -->
+    <string name="hint_buscar">Buscar por ID, título o tipo</string>
+    <string name="filtro_todos">Todos</string>
+    <string name="tipo_libro">Libro</string>
+    <string name="tipo_video">Video</string>
+    <string name="tipo_articulo">Artículo</string>
+    <string name="orden_titulo_asc">Título (A-Z)</string>
+    <string name="orden_titulo_desc">Título (Z-A)</string>
+    <string name="orden_tipo">Tipo</string>
+    <string name="sin_resultados">No se encontraron recursos</string>
+    <string name="sin_favoritos">Aún no tienes recursos favoritos</string>
+    <string name="label_id">ID: %1$s</string>
+    <string name="sin_calificaciones">Sin calificaciones</string>
+    <string name="rating_promedio">%1$.1f (%2$d votos)</string>
+    <string name="tu_calificacion">Tu calificación</string>
+    <string name="cd_favorito">Favorito</string>
+    <string name="msg_calificacion_guardada">Calificación guardada</string>
+    <string name="msg_favorito_agregado">Agregado a favoritos</string>
+    <string name="msg_favorito_quitado">Quitado de favoritos</string>
+
+    <!-- Administración (docente) -->
+    <string name="admin_title">Administrar recursos</string>
+    <string name="titulo_nuevo_recurso">Nuevo recurso</string>
+    <string name="titulo_editar_recurso">Editar recurso</string>
+    <string name="label_titulo">Título</string>
+    <string name="label_descripcion">Descripción</string>
+    <string name="label_tipo">Tipo</string>
+    <string name="label_enlace">Enlace</string>
+    <string name="label_imagen">URL de la imagen</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="confirm_eliminar_titulo">Eliminar recurso</string>
+    <string name="confirm_eliminar_msg">¿Seguro que deseas eliminar \"%1$s\"? Esta acción no se puede deshacer.</string>
+    <string name="msg_recurso_creado">Recurso creado</string>
+    <string name="msg_recurso_actualizado">Recurso actualizado</string>
+    <string name="msg_recurso_eliminado">Recurso eliminado</string>
+    <string name="error_titulo">El título es obligatorio</string>
+    <string name="error_descripcion">Mínimo 10 caracteres</string>
+    <string name="error_tipo">Selecciona un tipo</string>
+    <string name="error_url">Ingresa una URL válida</string>
+    <string name="cd_editar">Editar</string>
+    <string name="cd_eliminar">Eliminar</string>
+    <string name="cd_agregar">Agregar recurso</string>
 </resources>
