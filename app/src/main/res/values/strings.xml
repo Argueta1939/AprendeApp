@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AprendeApp</string>
+    <string name="welcome_message">¡Bienvenido a AprendeApp!</string>
+
+    <!-- Validación de contraseña -->
+    <string name="password_rule_length">Mínimo 12 caracteres</string>
+    <string name="password_rule_uppercase">Al menos una letra mayúscula</string>
+    <string name="password_rule_lowercase">Al menos una letra minúscula</string>
+    <string name="password_rule_number">Al menos un número</string>
+    <string name="password_rule_special">Al menos un carácter especial (! @ # $ % ^ &amp; *)</string>
+
+</resources>
