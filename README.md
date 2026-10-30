@@ -159,20 +159,6 @@ Ejemplo de JSON:
 }
 ```
 
----
-
-## Capturas de pantalla
-
-| Login | Registro | Inicio |
-|---|---|---|
-| ![Login](screenshots/login.png) | ![Registro](screenshots/registro.png) | ![Inicio](screenshots/inicio.png) |
-
-| Favoritos | Administrar (docente) | Formulario |
-|---|---|---|
-| ![Favoritos](screenshots/favoritos.png) | ![Admin](screenshots/admin.png) | ![Formulario](screenshots/formulario.png) |
-
----
-
 ## Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
